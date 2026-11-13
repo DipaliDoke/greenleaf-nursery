@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: greenleaf-nursery
+
+  profiles:
+    active: local
